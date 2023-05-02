@@ -1,4 +1,4 @@
-# 588-DataMining_Santander
+# 588-DataMining
 
 Team Members 
 <ul>
