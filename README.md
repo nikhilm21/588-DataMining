@@ -1,10 +1,10 @@
 # 588-DataMining
 
 Team Members 
-<ul>
-<li>Nikhil Mishra - nm1116</li>
-<li>Atharva Bhusari - ab2414</li>
-<li>Urjit Patil - up63</li>
-<li>Abhinav Saxena - as4171</li>
+
+- [Nikhil Mishra](https://github.com/nikhilm21)
+- [Atharva Bhusari](https://github.com/buzzi0204)
+- [Urjit Patil](https://github.com/patilurjit)
+- [Abhinav Saxena](https://github.com/iamabhinav13)
 
 Title: Customer Churn Prediction
